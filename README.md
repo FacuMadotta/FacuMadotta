@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Apasionado por el desarrollo de software y sistemas distribuidos.<br>🎓 Tutor particular de programación y matemática para nivel secundario desde 2023.</p>
+<p align="left">💻 Apasionado por el desarrollo de software, análisis de datos y sistemas distribuidos.<br>🎓 Tutor particular de programación y matemática para nivel secundario desde 2023.</p>
 
 ###
 
@@ -66,43 +66,29 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FacuMadotta/FacuMadotta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FacuMadotta/FacuMadotta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FacuMadotta/FacuMadotta/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h2 align="left">Mis redes:</h2>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/facundo-madotta-a81893344?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/facundo-madotta-a81893344">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
-  
   <a href="https://www.instagram.com/facumadotta">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
   </a>
-</div>
+</p>
 
 ###
 
 <h2 align="left">Proyectos destacados:</h2>
 
-<div align="center">
-  <div style="display: inline-block;">
-    <a target="_blank" href="https://github.com/FacuMadotta/SistemaComedorUniversitario">
-      <h3>🍴 Sistema Comedor Universitario</h3>
-    </a>
-  </div>
-  <div style="display: inline-block; margin-left: 40px;">
-    <a target="_blank" href="https://github.com/FacuMadotta/Need4Speed">
-      <h3>🏎️ VideoJuego "Need For Speed"</h3>
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/FacuMadotta/SistemaComedorUniversitario">
+    🍴 Sistema Comedor Universitario
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/FacuMadotta/Need4Speed">
+    🏎️ VideoJuego "Need For Speed"
+  </a>
+</p>
 
 ###
